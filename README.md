@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amadouz
-- 👀 I’m interested in BI, Data analytics/Eng., Cloud 
+- 👀 I’m interested in Data engineering and Data Science
 - 🌱 I’m currently doing a Master of Science in Analytics at Gerogia Tech & BI Consultant
 - 💞️ I’m looking to collaborate on projects in Business Intelligence solutions for any industry
 - 📫 You can reach to my personnal mail at ahmadouzarrougha@gmail.com
